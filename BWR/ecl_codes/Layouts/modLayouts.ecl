@@ -44,5 +44,17 @@ EXPORT modLayouts := MODULE
         UNSIGNED id;
         STRING firstname;
     END;
+ 
+    //Layout for FindReplace BWRs
+    EXPORT lInput := RECORD
+        STRING CPF;
+        STRING NAME;
+    END;
+
+    //Layout for FindReplace BWRs
+    EXPORT lOutput := RECORD
+        STRING CPF;
+        STRING DATE;
+    END;
 
 END;
