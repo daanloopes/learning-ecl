@@ -38,4 +38,11 @@ EXPORT modLayouts := MODULE
     EXPORT DefaultLayoutSampleBaseFixed_Helper := RECORD
         STRING30 field;
     END;
+    
+    //Layout for ~learning::input::persons.csv
+    EXPORT lBaseInput := RECORD
+        UNSIGNED id;
+        STRING firstname;
+    END;
+
 END;
