@@ -1,0 +1,11 @@
+{
+    "ecl.launchConfiguration": "localhost",
+    "ecl.targetCluster": {},
+    "ecl.eclccPath": "/opt/HPCCSystems/9.0.8/clienttools/bin/eclcc",
+    "ecl.pinnedLaunchConfigurations": {
+        "file:///Users/lopeda01/learning/learning-ecl/Dados/Join/BWR_Combine.ecl": {
+            "launchConfiguration": "localhost",
+            "targetCluster": "thor"
+        }
+    }
+}
