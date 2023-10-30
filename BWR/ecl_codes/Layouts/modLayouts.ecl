@@ -38,4 +38,23 @@ EXPORT modLayouts := MODULE
     EXPORT DefaultLayoutSampleBaseFixed_Helper := RECORD
         STRING30 field;
     END;
+    
+    //Layout for ~learning::input::persons.csv
+    EXPORT lBaseInput := RECORD
+        UNSIGNED id;
+        STRING firstname;
+    END;
+ 
+    //Layout for FindReplace BWRs
+    EXPORT lInput := RECORD
+        STRING CPF;
+        STRING NAME;
+    END;
+
+    //Layout for FindReplace BWRs
+    EXPORT lOutput := RECORD
+        STRING CPF;
+        STRING DATE;
+    END;
+
 END;
