@@ -1,0 +1,501 @@
+cpf,name,country,score
+100,Randa,Isle of Man,91
+101,Elfreda,United Kingdom,32
+102,Vevay,Faroe Islands,4
+103,Kalina,Jersey,11
+104,Christian,"Congo, The Democratic Republic of the",28
+105,Rochette,Tuvalu,23
+106,Iseabal,Dominican Republic,96
+107,Ninnetta,Portugal,93
+108,Meg,Croatia,78
+109,Shauna,Greece,71
+110,Marleah,Madagascar,1
+111,Brooks,Suriname,95
+112,Cherrita,Cameroon,91
+113,Deloria,Iceland,35
+114,Daphne,Samoa,70
+115,Madelle,Fiji,90
+116,Lulita,Mayotte,41
+117,Elbertina,United States Minor Outlying Islands,23
+118,Minda,Togo,33
+119,Ileana,Thailand,62
+120,Josephine,British Indian Ocean Territory,6
+121,Iseabal,Burkina Faso,1
+122,Blake,Mali,73
+123,Cassandra,French Guiana,35
+124,Fanchon,"Macedonia, The Former Yugoslav Republic of",69
+125,Olivette,Angola,52
+126,Hettie,Comoros,35
+127,Gilda,Ghana,17
+128,Rani,Saint Kitts and Nevis,71
+129,Anestassia,Panama,31
+130,Tressa,Wallis and Futuna,16
+131,Jenda,Iceland,41
+132,Cindelyn,Mayotte,7
+133,Dawn,Svalbard and Jan Mayen,54
+134,Kenna,Azerbaijan,34
+135,Celene,Israel,79
+136,Donnie,Wallis and Futuna,20
+137,Perry,Luxembourg,23
+138,Laure,Brunei Darussalam,4
+139,Gabriellia,Equatorial Guinea,59
+140,Dagmar,Aruba,75
+141,Dawn,Trinidad and Tobago,44
+142,Clo,Maldives,100
+143,Berta,Macao,79
+144,Corry,Ethiopia,27
+145,Halette,Northern Mariana Islands,40
+146,Jackie,Colombia,69
+147,Stacey,French Polynesia,24
+148,Iseabal,"Korea, Democratic People""S Republic of",0
+149,Frieda,Kazakhstan,11
+150,Kimberley,Saudi Arabia,16
+151,Emelina,United Kingdom,6
+152,Glenda,Congo,7
+153,Genevra,China,3
+154,Lynde,Oman,54
+155,Chastity,Niger,94
+156,Cissiee,Indonesia,7
+157,Laurene,Mauritania,36
+158,Meriel,Panama,85
+159,Cassandra,Colombia,17
+160,Gwenneth,Tunisia,50
+161,Dione,Malaysia,14
+162,Lolita,Kenya,56
+163,Rosanne,Jamaica,25
+164,Marnia,Panama,41
+165,Magdalena,Nigeria,16
+166,Collen,Argentina,83
+167,Desirae,Slovakia,6
+168,Rosabelle,Belize,88
+169,Linet,"Lao People""S Democratic Republic",85
+170,Modestia,Kenya,98
+171,Jasmina,Falkland Islands (Malvinas),9
+172,Liana,Zimbabwe,9
+173,Ann-Marie,Burkina Faso,30
+174,Ermengarde,Kuwait,88
+175,Stacey,Haiti,97
+176,Gavrielle,Pakistan,96
+177,Therine,Mali,47
+178,Mallory,Greece,44
+179,Sara-Ann,Timor-Leste,21
+180,Roxane,Thailand,17
+181,Joy,"Virgin Islands, U.S.",10
+182,Karolina,American Samoa,58
+183,Taffy,Syrian Arab Republic,51
+184,Jacenta,Puerto Rico,100
+185,Augustine,Mauritania,48
+186,Patricia,Senegal,9
+187,Sadie,United States Minor Outlying Islands,48
+188,Fanchon,Western Sahara,14
+189,Ashlee,Uruguay,33
+190,Carol-Jean,American Samoa,60
+191,Jsandye,Mexico,52
+192,Linzy,Uzbekistan,75
+193,Anallese,Philippines,19
+194,Babita,American Samoa,90
+195,Lila,United Kingdom,63
+196,Talya,Philippines,96
+197,Gusty,Ghana,79
+198,Charlena,"Iran, Islamic Republic Of",53
+199,Karena,Denmark,54
+200,Minda,Turks and Caicos Islands,65
+201,Verla,New Caledonia,10
+202,Chandra,New Zealand,56
+203,Berta,Mauritania,6
+204,Anallese,Latvia,76
+205,Melanie,United Arab Emirates,56
+206,Hayley,New Zealand,18
+207,Alameda,Cook Islands,84
+208,Merci,Madagascar,88
+209,Jenda,Mauritania,37
+210,Margalo,Vanuatu,51
+211,Brandise,Colombia,63
+212,Aurore,"Palestinian Territory, Occupied",72
+213,Alexine,Pitcairn,96
+214,Deloria,Bouvet Island,7
+215,Flory,Isle of Man,12
+216,Aryn,Algeria,50
+217,Debee,Pakistan,19
+218,Jemie,Israel,69
+219,Chickie,Bhutan,1
+220,Larine,Guatemala,66
+221,Lulita,Bouvet Island,3
+222,Oona,Liberia,31
+223,Marylou,Mexico,90
+224,Micheline,Bhutan,42
+225,Brena,Burundi,6
+226,Bobinette,Uganda,37
+227,Elyssa,Chad,75
+228,Grier,Faroe Islands,20
+229,Sue,China,88
+230,Libbie,Hong Kong,43
+231,Lexine,Egypt,17
+232,Nicoli,Pakistan,96
+233,Kelly,Grenada,99
+234,Letizia,Guernsey,20
+235,Hope,Denmark,94
+236,Kelly,United Kingdom,27
+237,Penelopa,Mayotte,78
+238,Mignon,Kazakhstan,0
+239,Pierette,Palau,80
+240,Sarette,Cape Verde,73
+241,Kaia,Guinea,92
+242,Constance,"Cote D""Ivoire",66
+243,Gabi,French Polynesia,49
+244,Tybie,Seychelles,84
+245,Clary,China,75
+246,Sandie,Heard Island and Mcdonald Islands,46
+247,Wilma,Ecuador,37
+248,Shannah,British Indian Ocean Territory,74
+249,Kirstin,Christmas Island,64
+250,Claresta,San Marino,98
+251,Dari,South Georgia and the South Sandwich Islands,30
+252,Kristina,Mauritania,52
+253,Aaren,Seychelles,11
+254,Micheline,Equatorial Guinea,28
+255,Helena,Jordan,43
+256,Gaylene,Seychelles,31
+257,Vinita,Libyan Arab Jamahiriya,7
+258,Raf,Turkmenistan,51
+259,Roxane,Panama,7
+260,Meghann,Azerbaijan,94
+261,Agnese,Saint Pierre and Miquelon,82
+262,Ethel,Brunei Darussalam,25
+263,Suzette,Guadeloupe,74
+264,Tabbatha,Kuwait,88
+265,June,Norway,31
+266,Cindelyn,Guam,36
+267,Audrie,Serbia and Montenegro,22
+268,Merry,Qatar,12
+269,Gisela,Russian Federation,99
+270,Tatiania,"Tanzania, United Republic of",22
+271,Carly,Turkmenistan,98
+272,Tonia,Congo,24
+273,Imojean,Mayotte,13
+274,Janenna,Estonia,76
+275,Meghann,El Salvador,35
+276,Alleen,Haiti,34
+277,Ana,Norway,92
+278,Kassey,Belgium,46
+279,Frances,Samoa,2
+280,Emelina,Montserrat,25
+281,Talya,Cocos (Keeling) Islands,66
+282,Lusa,"Korea, Democratic People""S Republic of",62
+283,Lizzie,Antigua and Barbuda,27
+284,Jillayne,Swaziland,97
+285,Kelly,Paraguay,21
+286,Lolita,New Caledonia,33
+287,Jany,Zimbabwe,96
+288,Imojean,Åland Islands,32
+289,Kalina,Jordan,77
+290,Deirdre,Bangladesh,59
+291,Jackie,"Iran, Islamic Republic Of",82
+292,Dawn,Namibia,32
+293,Elfreda,Tokelau,68
+294,Clo,China,44
+295,Jacquetta,American Samoa,26
+296,Sandie,Burundi,23
+297,Benita,"Korea, Democratic People""S Republic of",28
+298,Gale,Puerto Rico,18
+299,Berta,Christmas Island,93
+300,Ottilie,Tajikistan,12
+301,Nannie,Tonga,22
+302,Nannie,Uruguay,14
+303,Arabel,Martinique,7
+304,Anestassia,Djibouti,26
+305,Vere,Liberia,15
+306,Merrie,Monaco,7
+307,Briney,Portugal,41
+308,Katuscha,United States Minor Outlying Islands,28
+309,Fanchon,Slovakia,45
+310,Aili,Uruguay,48
+311,Kylynn,Serbia and Montenegro,97
+312,Tamqrah,Anguilla,67
+313,Jinny,Georgia,32
+314,Ericka,Burundi,35
+315,Ottilie,Guyana,78
+316,Tomasina,South Georgia and the South Sandwich Islands,0
+317,Gaylene,Angola,90
+318,Nonnah,Zimbabwe,3
+319,Dyann,Lebanon,67
+320,Marguerite,Guinea,11
+321,Silvana,Guatemala,64
+322,Beth,San Marino,74
+323,Edee,Estonia,10
+324,Gianina,Kuwait,43
+325,Tomasina,Netherlands,46
+326,Ayn,Turkey,68
+327,Catharine,French Southern Territories,3
+328,Mellicent,American Samoa,96
+329,Rosabelle,Djibouti,89
+330,Alyssa,El Salvador,61
+331,Tabbatha,Puerto Rico,2
+332,Lita,Cape Verde,77
+333,Jaclyn,Marshall Islands,27
+334,Tilly,Finland,36
+335,Betta,Samoa,19
+336,Sindee,Niue,93
+337,Georgetta,Eritrea,82
+338,Caressa,Turkey,88
+339,Jenda,Saint Kitts and Nevis,33
+340,Elise,Saint Vincent and the Grenadines,1
+341,Kara-Lynn,Denmark,10
+342,Nerta,Isle of Man,7
+343,Barbi,Germany,63
+344,Dorene,Liechtenstein,82
+345,Concettina,Cuba,46
+346,Ernesta,Nepal,42
+347,Sashenka,Botswana,68
+348,Cyndie,Spain,41
+349,Alexine,Bosnia and Herzegovina,46
+350,Imojean,Turkmenistan,71
+351,Ida,Sao Tome and Principe,48
+352,Lanae,Israel,32
+353,Andeee,Mali,5
+354,Allyce,Argentina,53
+355,Benita,Guatemala,12
+356,Viki,Eritrea,3
+357,Nyssa,Switzerland,9
+358,Caressa,Colombia,21
+359,Maryellen,Tokelau,67
+360,Alex,Tuvalu,11
+361,Monika,Lithuania,62
+362,Johna,Japan,61
+363,Lelah,Croatia,33
+364,Dorothy,Saint Pierre and Miquelon,98
+365,Ardeen,Turkey,98
+366,Raquela,Bermuda,95
+367,Leia,Niue,56
+368,Wendi,Poland,62
+369,Lanae,Russian Federation,34
+370,Ruthe,Poland,78
+371,Ninnetta,Uruguay,5
+372,Paule,Pakistan,61
+373,Hayley,Sri Lanka,25
+374,Peri,Aruba,8
+375,Althea,Kyrgyzstan,34
+376,Bibby,Gambia,66
+377,Genovera,El Salvador,66
+378,Sharai,Isle of Man,60
+379,Ezmeralda,Northern Mariana Islands,38
+380,Cristine,Serbia and Montenegro,43
+381,Thalia,Sri Lanka,78
+382,Tobe,Nepal,55
+383,Suzette,Turkey,53
+384,Linzy,Jordan,87
+385,Karena,Singapore,93
+386,Daryl,Venezuela,66
+387,Fanchon,Martinique,9
+388,Lily,Tokelau,74
+389,Vevay,Togo,69
+390,Brianna,Mexico,36
+391,Norine,Falkland Islands (Malvinas),67
+392,Korrie,Burkina Faso,12
+393,Christian,Namibia,17
+394,Aigneis,Gambia,4
+395,Iseabal,Comoros,89
+396,Sadie,Solomon Islands,17
+397,Deirdre,Gambia,25
+398,Silvana,"Palestinian Territory, Occupied",22
+399,Briney,Thailand,94
+400,Jordan,Papua New Guinea,4
+401,Kathi,Comoros,72
+402,Lulita,Germany,24
+403,Dotty,Jamaica,39
+404,Barbara,Bahrain,84
+405,Petronia,Ecuador,53
+406,Dacia,Tuvalu,25
+407,Alisha,Christmas Island,56
+408,Livvyy,Syrian Arab Republic,3
+409,Barbara,Reunion,68
+410,Gusella,Martinique,61
+411,Sam,Kuwait,98
+412,Mamie,Suriname,98
+413,Arlena,Samoa,72
+414,Marita,French Guiana,75
+415,Lelah,Russian Federation,96
+416,Rhoda,Estonia,93
+417,Annecorinne,Macao,76
+418,Hayley,Yemen,42
+419,Jolyn,Yemen,47
+420,Lizzie,Liechtenstein,75
+421,Nyssa,Iceland,95
+422,Nicoli,Solomon Islands,68
+423,Annice,Mayotte,42
+424,Melodie,Guadeloupe,37
+425,Ariela,Namibia,23
+426,Celene,Cambodia,25
+427,Nadine,Ireland,20
+428,Caryl,Bouvet Island,31
+429,Maye,Tokelau,7
+430,Dyann,Belgium,92
+431,Stevana,Barbados,85
+432,Concettina,Gabon,72
+433,Bernardine,Antigua and Barbuda,93
+434,Basia,"Iran, Islamic Republic Of",94
+435,Bobbi,Equatorial Guinea,9
+436,Collen,Liberia,91
+437,Winifred,Chile,40
+438,Chandra,Jamaica,69
+439,Christy,Slovenia,4
+440,Kirstin,Peru,17
+441,Starla,Viet Nam,64
+442,Paulita,Cocos (Keeling) Islands,33
+443,Vinita,Pitcairn,21
+444,Perry,"Cote D""Ivoire",11
+445,Fanchon,"Korea, Republic of",86
+446,Feliza,Cyprus,57
+447,Drucie,Åland Islands,88
+448,Candi,Belarus,1
+449,Morganica,Egypt,22
+450,Carree,Cook Islands,81
+451,Sybille,Wallis and Futuna,39
+452,Hettie,Christmas Island,56
+453,Hildegaard,Qatar,46
+454,Adele,Sao Tome and Principe,56
+455,Brietta,Timor-Leste,17
+456,Shaylyn,Tuvalu,73
+457,Mureil,Switzerland,93
+458,Marita,Marshall Islands,29
+459,Carly,Paraguay,80
+460,Philis,Mauritius,67
+461,Hildegaard,Lithuania,13
+462,Ardys,Panama,12
+463,Marylou,Austria,21
+464,Katuscha,New Zealand,84
+465,Vere,Kenya,33
+466,Taffy,Samoa,67
+467,Felice,Niue,23
+468,Odessa,Venezuela,94
+469,Micheline,Portugal,29
+470,Allis,New Zealand,6
+471,Zsa Zsa,Namibia,80
+472,Pollyanna,Cape Verde,39
+473,Olivette,Saudi Arabia,84
+474,Amii,Guadeloupe,89
+475,Dacia,Finland,79
+476,Tori,Bhutan,2
+477,Jemie,Saint Lucia,69
+478,Anthia,Jersey,81
+479,Lory,Greenland,62
+480,Jean,Latvia,65
+481,Alia,Japan,11
+482,Phedra,New Caledonia,98
+483,Ariela,Gibraltar,94
+484,Hope,Comoros,86
+485,Dolli,Slovenia,26
+486,Britte,Saint Pierre and Miquelon,75
+487,Kate,Finland,93
+488,Felice,New Caledonia,81
+489,Ericka,Antarctica,62
+490,Averyl,Dominican Republic,14
+491,Dacia,Kenya,99
+492,Tarra,Western Sahara,52
+493,Devina,Colombia,40
+494,Fanchon,Northern Mariana Islands,93
+495,Rubie,Botswana,19
+496,Danika,Yemen,7
+497,Judy,Tunisia,74
+498,Katharina,Jersey,86
+499,Adelle,Saint Pierre and Miquelon,9
+500,Ardys,Argentina,56
+501,Robinia,Bahrain,56
+502,Annaliese,United Arab Emirates,43
+503,Josephine,Liberia,42
+504,Evita,Myanmar,6
+505,Lynnea,Guatemala,75
+506,Nyssa,Gabon,2
+507,Joelly,Cook Islands,12
+508,Shirlee,Benin,30
+509,Concettina,Grenada,44
+510,Brietta,Uruguay,57
+511,Jere,Somalia,44
+512,Blinni,Australia,72
+513,Ira,Liberia,21
+514,Vere,Anguilla,57
+515,Morganica,Norway,51
+516,Mignon,Antigua and Barbuda,87
+517,Jerry,South Africa,14
+518,Jasmina,Reunion,83
+519,Kelly,Macao,7
+520,Sallie,Mauritius,68
+521,Xylina,"Congo, The Democratic Republic of the",55
+522,Nonnah,Samoa,82
+523,Maurene,Albania,18
+524,Sophia,Bulgaria,51
+525,Kristan,Mauritius,91
+526,Amalie,Netherlands,96
+527,Neila,Indonesia,31
+528,Marsiella,Turkmenistan,33
+529,Dawn,Togo,10
+530,Aigneis,Svalbard and Jan Mayen,15
+531,Winny,Poland,9
+532,Elena,Tajikistan,91
+533,Debee,Kazakhstan,40
+534,Sherrie,Malaysia,12
+535,Edee,Burkina Faso,69
+536,Aaren,Malawi,38
+537,Vinita,Cambodia,20
+538,Deirdre,Mozambique,29
+539,Blondelle,Chile,57
+540,Renae,Namibia,29
+541,Chloris,Mayotte,22
+542,Max,Botswana,41
+543,Gui,Guinea-Bissau,56
+544,Nataline,Dominica,71
+545,Viviene,French Polynesia,62
+546,Fred,Wallis and Futuna,17
+547,Concettina,Denmark,9
+548,Libbie,Estonia,40
+549,Olwen,Togo,47
+550,Barbara,United States,17
+551,Shannah,South Africa,89
+552,Ebonee,Suriname,16
+553,Vinita,Belarus,29
+554,Nessie,Yemen,1
+555,Bobinette,Serbia and Montenegro,93
+556,Pollyanna,Nauru,66
+557,Iseabal,RWANDA,55
+558,Justinn,Cyprus,90
+559,Valeda,Swaziland,41
+560,Sheelagh,Seychelles,32
+561,Jacenta,Italy,47
+562,Correy,Lesotho,57
+563,Edith,Marshall Islands,19
+564,Winny,United Kingdom,57
+565,Delilah,Niger,8
+566,Vere,Canada,68
+567,Gloria,Pakistan,32
+568,Lynde,Martinique,49
+569,Steffane,Zimbabwe,9
+570,Brianna,Vanuatu,4
+571,Kate,"Palestinian Territory, Occupied",83
+572,Cam,Australia,16
+573,Karina,Guatemala,38
+574,Sean,Qatar,84
+575,Meriel,Portugal,76
+576,Charissa,Niger,12
+577,Lorenza,Bulgaria,48
+578,Phedra,Anguilla,17
+579,Leeanne,Nigeria,74
+580,Anthia,Namibia,34
+581,Eugine,Venezuela,96
+582,Marika,Svalbard and Jan Mayen,24
+583,Celestyna,Czech Republic,25
+584,Kittie,Guinea-Bissau,49
+585,Justinn,Guyana,10
+586,Adele,Antigua and Barbuda,7
+587,Veda,"Taiwan, Province of China",80
+588,Elora,"Virgin Islands, British",39
+589,Daune,French Polynesia,58
+590,Madalyn,Chile,20
+591,Belva,Myanmar,89
+592,Dione,Liechtenstein,6
+593,Tarra,Cocos (Keeling) Islands,36
+594,Merle,India,78
+595,Micheline,Kazakhstan,73
+596,Ingrid,Lesotho,44
+597,Nessie,Albania,8
+598,Magdalena,Christmas Island,59
+599,Lulita,Guyana,15
